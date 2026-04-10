@@ -52,10 +52,10 @@ You may choose to include either or both of these columns:
 ---
 
 # 🛠 Setup & Installation
-
 ### 1. Clone Repository
+
 ```bash
-git clone [https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper](https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper)
+git clone [https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper.git](https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper.git)
 cd CCDI_ICDO_Diagnosis_Mapper
 ```
 ### 2. Install Dependencies
