@@ -1,0 +1,51 @@
+code,term
+8000/0,"Neoplasm, benign"
+8000/0,"Tumor, benign"
+8000/0,"Unclassified tumor, benign"
+8000/1,"Neoplasm, uncertain whether benign or malignant"
+8000/1,"Neoplasm, NOS"
+8000/1,"Tumor, NOS"
+8000/1,"Unclassified tumor, borderline malignancy"
+8000/1,"Unclassified tumor, uncertain whether benign or malignant"
+8000/3,"Neoplasm, malignant"
+8000/3,"Blastoma, NOS"
+8000/3,"Tumor, malignant, NOS"
+8000/3,Cancer
+8000/3,Malignancy
+8000/3,"Unclassified tumor, malignant"
+8000/6,"Neoplasm, metastatic"
+8000/6,"Neoplasm, secondary"
+8000/6,Tumor embolus
+8000/6,"Tumor, metastatic"
+8000/6,"Tumor, secondary"
+8000/9,"Neoplasm, malignant, uncertain whether primary or metastatic"
+8000/9,"Unclassified tumor, malignant, uncertain whether primary or metastatic"
+8001/0,"Tumor cells, benign"
+8001/1,"Tumor cells, uncertain whether benign or malignant"
+8001/1,"Tumor cells, NOS"
+8001/3,"Tumor cells, malignant"
+8002/3,"Malignant tumor, small cell type"
+8003/3,"Malignant tumor, giant cell type"
+8004/3,"Malignant tumor, spindle cell type"
+8004/3,"Malignant tumor, fusiform cell type"
+8005/0,"Clear cell tumor, NOS"
+8005/3,"Malignant tumor, clear cell type"
+8010/0,"Epithelial tumor, benign"
+8010/2,"Carcinoma in situ, NOS"
+8010/2,"Intraepithelial carcinoma, NOS"
+8010/3,"Carcinoma, NOS"
+8010/3,"Epithelial tumor, malignant"
+8010/6,"Carcinoma, metastatic, NOS"
+8010/6,Secondary carcinoma
+8010/9,Carcinomatosis
+8011/0,"Epithelioma, benign"
+8011/3,"Epithelioma, malignant"
+8011/3,"Epithelioma, NOS"
+8012/3,"Large cell carcinoma, NOS"
+8013/3,Large cell neuroendocrine carcinoma
+8014/3,Large cell carcinoma with rhabdoid phenotype
+8015/3,Glassy cell carcinoma
+8020/3,"Carcinoma, undifferentiated, NOS"
+8021/3,"Carcinoma, anaplastic, NOS"
+8022/3,Pleomorphic carcinoma
+8023/3,Nuclear protein in testis (NUT) associated carcinoma
