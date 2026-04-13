@@ -55,7 +55,7 @@ You may choose to include either or both of these columns:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper](https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper)
+git clone https://github.com/CBIIT/CCDI_ICDO_Diagnosis_Mapper
 cd CCDI_ICDO_Diagnosis_Mapper
 ```
 ### 2. Install Dependencies
@@ -67,3 +67,13 @@ Ensure your file is in the input/ folder, then execute from the project root:
 ```bash
 python scripts/icdo_group_mapper.py
 ```
+
+# 🧪 Running Tests
+To ensure the the script is working correctly, you can run the test script. This will automatically generate a test file, process it, and verify the output against expected ICD-O standards.
+
+From the project root, run:
+
+```bash
+python tests/test_script.py
+```
+Note: This test will briefly create and then remove files in the input/ and output/ folders.
